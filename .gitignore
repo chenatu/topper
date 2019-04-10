@@ -1,0 +1,46 @@
+# project files
+.classpath
+.project
+.settings
+
+# Compiled class file
+*.class
+
+# IntelliJ project files
+.idea
+*.iml
+target/
+out
+gen### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# temporary test files
+src/test/resources/dense/
+src/test/resources/sparse/
+
+# DS_STORE
+*.DS_Store
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.dat
+splits
